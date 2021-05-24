@@ -1,0 +1,27 @@
+<annotation verified="no">
+  <folder>pic</folder>
+  <filename>0006</filename>
+  <path>E:\Download\object_detection_training\object_detection\dataset\pic\0006.jpg</path>
+  <source>
+    <database>Unknown</database>
+  </source>
+  <size>
+    <width>1024</width>
+    <height>676</height>
+    <depth>3</depth>
+  </size>
+  <segmented>0</segmented>
+  <object>
+    <type>bndbox</type>
+    <name>tortoise</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>128</xmin>
+      <ymin>132</ymin>
+      <xmax>973</xmax>
+      <ymax>639</ymax>
+    </bndbox>
+  </object>
+</annotation>

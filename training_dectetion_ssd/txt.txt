@@ -1,0 +1,18 @@
+https://github.com/tensorflow/models
+https://github.com/tensorflow/models/blob/master/research/object_detection/g3doc/tf1_detection_zoo.md
+下载coco第一个数据集
+
+gennrate_tfrecord_v2.py --csv_input=images/train_labels.csv --output_path=annotations/train.record --image_dir=images/train
+gennrate_tfrecord_v2.py --csv_input=images/test_labels.csv --output_path=annotations/test.record --image_dir=images/test
+
+
+model_main_tf2.py --logtostderr --pipeline_config_path=models/pipeline.config --train_dir=train_dir/ --model_dir=train_dir/
+
+exporter_main_v2.py --input_type=image_tensor --pipeline_config_path=models/pipeline.config --trained_checkpoint_dir=train_dir/ --output_directory=eval_dir
+
+
+export_inference_graph.py --input_type image_tensor --pipeline_config_path=models/pipeline.config --trained_checkpoint_prefix train_dir/ckpt-6.data-00000-of-00001 --output_directory 
+
+eval.py --logtostderr --pipeline_config_path=models/pipeline.config --eval_dir=eval_dir/ --checkpoint_dir=train_dir/
+
+dataset E:/Download/object_re/dataset

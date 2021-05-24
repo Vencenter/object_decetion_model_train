@@ -1,0 +1,27 @@
+<annotation verified="no">
+  <folder>pic</folder>
+  <filename>0013</filename>
+  <path>E:/Download/object_re/dataset/pic/0013.jpg</path>
+  <source>
+    <database>Unknown</database>
+  </source>
+  <size>
+    <width>700</width>
+    <height>1276</height>
+    <depth>3</depth>
+  </size>
+  <segmented>0</segmented>
+  <object>
+    <type>bndbox</type>
+    <name>women</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>48</xmin>
+      <ymin>49</ymin>
+      <xmax>574</xmax>
+      <ymax>1263</ymax>
+    </bndbox>
+  </object>
+</annotation>

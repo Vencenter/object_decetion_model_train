@@ -1,0 +1,5 @@
+filename,width,height,class,xmin,ymin,xmax,ymax
+E:/Download/object_detection_training/object_detection/dataset/pic/0007.jpg,600,400,tortoise,1,87,476,359
+E:/Download/object_detection_training/object_detection/dataset/pic/0019.jpg,518,882,women,43,5,432,718
+E:/Download/object_detection_training/object_detection/dataset/pic/0014.jpg,700,1050,women,182,47,527,1044
+E:/Download/object_detection_training/object_detection/dataset/pic/0010.jpg,500,337,tortoise,72,50,491,278

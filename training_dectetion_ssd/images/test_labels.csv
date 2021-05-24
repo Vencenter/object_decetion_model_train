@@ -1,0 +1,11 @@
+filename,width,height,class,xmin,ymin,xmax,ymax
+E:/Download/object_detection_training/training_dectetion_ssd/images/test/i-98d05f7a289847b7b166272d70025f5f.jpg,374,366,Ibuprofen 200 MG Oral Tablet,18,22,349,356
+E:/Download/object_detection_training/training_dectetion_ssd/images/test/i-3e7d87c0bc154f93a8d939439277fafc.jpg,640,480,Acetaminophen 325 MG Oral Tablet,334,95,623,382
+E:/Download/object_detection_training/training_dectetion_ssd/images/test/i-1e092ec6eabf47f9b85795a9e069181b.jpg,1024,781,Acetaminophen 325 MG Oral Tablet,541,113,1024,600
+E:/Download/object_detection_training/training_dectetion_ssd/images/test/i-14370c36306d44cfbb37232f766e0365.jpg,1024,781,Acetaminophen 325 MG Oral Tablet,540,119,1022,596
+E:/Download/object_detection_training/training_dectetion_ssd/images/test/i-c55a624481f64660a4a6721f6e1ba765.jpg,640,480,Ibuprofen 200 MG Oral Tablet,329,87,628,386
+E:/Download/object_detection_training/training_dectetion_ssd/images/test/i-aec5aed72f4d43fab8957c948eb625d3.jpg,1024,768,Ibuprofen 200 MG Oral Tablet,548,115,1019,596
+E:/Download/object_detection_training/training_dectetion_ssd/images/test/i-fbc3c593f37147b1b90920ca7e5e5af3.jpg,640,480,Acetaminophen 325 MG Oral Tablet,61,249,579,467
+E:/Download/object_detection_training/training_dectetion_ssd/images/test/i-29c86b783ec244acba67b45d5f16ded1.jpg,239,320,Ibuprofen 200 MG Oral Tablet,69,175,173,276
+E:/Download/object_detection_training/training_dectetion_ssd/images/test/i-038215c28fdc4e55be33235cf3bf8fcd.jpg,640,480,Ibuprofen 200 MG Oral Tablet,106,285,538,466
+E:/Download/object_detection_training/training_dectetion_ssd/images/test/i-07d09c281bd94e88af9a4e3811e976e4.jpg,900,900,Acetaminophen 325 MG Oral Tablet,211,141,700,631
